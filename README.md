@@ -28,7 +28,9 @@ at last you must run the index.html file and your done!
 this project include three section
 
 1- about me , in this section i introduce my self
+
 2- project , this section include a project that is a storage system
+
 3- contact , this is the last section in this project and there is an email to contact me
 
 # languages:
